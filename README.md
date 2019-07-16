@@ -1,0 +1,1 @@
+To run the program all that is necessary is to navigate to the code files folder using the terminal and then run the file chess_student.py
